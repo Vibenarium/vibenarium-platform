@@ -13,7 +13,7 @@ The Vibenarium Platform is on track to become the first fully featured, multi-pl
 for collaborative creation, asset and resource sharing, data processing (and rendering), distribution 
 and open source and auditable smart browsing and recommendation based exploration. It allows asset and resource sharing as well as native crypto currency payments and it makes use of the [Interplanetary Filesystem](https://ipfs.io), [Quest Network PubSub Protocol](https://github.com/QuestNetwork/quest-pubsub-js), [Quest Network Image Captcha](https://github.com/QuestNetwork/quest-image-captcha-js), [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js), [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js), the Quest Network Whistle ID Protocol and more. 
 
-We're planning to become the primary destination for social networking and collaborative remote interaction. 
+We're planning to provide the primary interplanetary service for social networking and collaborative remote interaction. 
 
 All free. All open source. 
 

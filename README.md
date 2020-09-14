@@ -1,4 +1,4 @@
-![Completion](https://img.shields.io/badge/completion-3%25-yellow) ![Help Wanted](https://img.shields.io/badge/%20-help--wanted-%23159818) ![Version 0.9.3](https://img.shields.io/badge/version-v1.0.0-blue) ![Sponsors](https://img.shields.io/badge/sponsors-0-red)
+![Completion](https://img.shields.io/badge/completion-3%25-red) ![Help Wanted](https://img.shields.io/badge/%20-help--wanted-%23159818) ![Version 0.9.3](https://img.shields.io/badge/version-v1.0.0-blue) ![Sponsors](https://img.shields.io/badge/sponsors-0-red)
 
 
 # Vibenarium Platform JS

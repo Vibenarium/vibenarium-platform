@@ -14,7 +14,7 @@ and open source and auditable smart browsing and recommendation based exploratio
 
 The Vibenarium Platform is a multi-platform, publicly auditable, decentralized, end-to-end encrypted environment for collaborative creation, asset and resource sharing, data processing (and rendering). It allows asset and resource sharing as well as native crypto currency payments.
 
-The Vibenarium is build on the [Quest Network[(questnetwork.github.io/docs) and makes use of the [Interplanetary Filesystem](https://ipfs.io), [Quest Network OS](https://github.com/QuestNetwork/quest-os-js), [Quest Network Image Captcha](https://github.com/QuestNetwork/quest-image-captcha-js), [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js), [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js), the Quest Network Whistle ID Protocol and more. 
+The Vibenarium is build on the [Quest Network](questnetwork.github.io/docs) and makes use of the [Interplanetary Filesystem](https://ipfs.io), [Quest Network OS](https://github.com/QuestNetwork/quest-os-js), [Quest Network Image Captcha](https://github.com/QuestNetwork/quest-image-captcha-js), [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js), [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js), the Quest Network Whistle ID Protocol and more. 
 
 We're planning to provide the primary interplanetary service for social networking and collaborative remote interaction. 
 
